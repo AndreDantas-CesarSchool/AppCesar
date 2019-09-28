@@ -1,0 +1,195 @@
+[33mcommit f1466df1fc1b817de9f6c28309e7757f2b9b728b[m
+Author: Your Name <you@example.com>
+Date:   Sat Sep 28 16:18:02 2019 -0300
+
+    Coveralls
+
+[33mcommit 92ec53922369b2be529818b03fcc873c0db95e10[m
+Merge: dc7facf 9f69a7f
+Author: AndreDantas-CesarSchool <55899695+AndreDantas-CesarSchool@users.noreply.github.com>
+Date:   Sat Sep 28 15:54:00 2019 -0300
+
+    Merge pull request #7 from AndreDantas-CesarSchool/AndreDantas-CesarSchool-patch-2
+    
+    Update .coveralls.yml
+
+[33mcommit 9f69a7f927210703b647fb7c6c636021f543ed76[m
+Author: AndreDantas-CesarSchool <55899695+AndreDantas-CesarSchool@users.noreply.github.com>
+Date:   Sat Sep 28 15:52:20 2019 -0300
+
+    Update .coveralls.yml
+
+[33mcommit dc7facf754f0344a16b649d3082ab06afdd07e03[m
+Merge: ae7b6d9 c53d82f
+Author: AndreDantas-CesarSchool <55899695+AndreDantas-CesarSchool@users.noreply.github.com>
+Date:   Sat Sep 28 15:46:45 2019 -0300
+
+    Merge pull request #6 from AndreDantas-CesarSchool/AndreDantas-CesarSchool-patch-1
+    
+    Create .coveralls.yml
+
+[33mcommit c53d82f93c9673b17457f44abf061131654a654e[m
+Author: AndreDantas-CesarSchool <55899695+AndreDantas-CesarSchool@users.noreply.github.com>
+Date:   Sat Sep 28 15:44:46 2019 -0300
+
+    Create .coveralls.yml
+
+[33mcommit ae7b6d93855f5c617c8118ac8848b5db88f9b538[m
+Merge: 1270a7e 3d86f26
+Author: AndreDantas-CesarSchool <55899695+AndreDantas-CesarSchool@users.noreply.github.com>
+Date:   Sat Sep 28 15:32:12 2019 -0300
+
+    Merge pull request #5 from AndreDantas-CesarSchool/feature_1
+    
+    Jacoco config for circleCI
+
+[33mcommit 3d86f263080499455b11e36132f0a5be6bc442d8[m
+Author: unknown <frederyk antunnes>
+Date:   Sat Sep 28 15:29:25 2019 -0300
+
+    Fix 'command name'
+
+[33mcommit fd5eebea9199e5aaa86ae3aeeeb2165240deb6ed[m
+Author: unknown <frederyk antunnes>
+Date:   Sat Sep 28 15:27:30 2019 -0300
+
+    Jacoco config for circleCI
+
+[33mcommit 1270a7e0e4f37d688518d4513560a767fa67f763[m
+Merge: 97c1c2f be4eaac
+Author: Frederyk Antunnes <frederykantunnes@gmail.com>
+Date:   Sat Sep 28 15:16:51 2019 -0300
+
+    Merge pull request #4 from AndreDantas-CesarSchool/frederykantunnes-patch-1
+    
+    Frederykantunnes patch 1
+
+[33mcommit be4eaac38fa1360f2b2f8c39d8b57229dd85de8f[m
+Author: Frederyk Antunnes <frederykantunnes@gmail.com>
+Date:   Sat Sep 28 15:14:34 2019 -0300
+
+    Update README.md
+
+[33mcommit ceaa729e83d5b8fac41d07d753318b663b4b1544[m
+Author: Frederyk Antunnes <frederykantunnes@gmail.com>
+Date:   Sat Sep 28 15:13:30 2019 -0300
+
+    Create README.md
+
+[33mcommit 97c1c2f630377f51e7d9945b8644e828bd87d16d[m
+Merge: cd03b57 a2eb361
+Author: AndreDantas-CesarSchool <55899695+AndreDantas-CesarSchool@users.noreply.github.com>
+Date:   Sat Sep 28 15:12:20 2019 -0300
+
+    Merge pull request #3 from AndreDantas-CesarSchool/feature_1
+    
+    Jacoco configuration
+
+[33mcommit a2eb361413546c09721482d40a87054db75262a3[m
+Author: unknown <frederyk antunnes>
+Date:   Sat Sep 28 15:10:03 2019 -0300
+
+    Jacoco configuration
+
+[33mcommit cd03b578b173fe1b9515a643bbd748706d89f731[m
+Merge: f842c0d d1fc59a
+Author: AndreDantas-CesarSchool <55899695+AndreDantas-CesarSchool@users.noreply.github.com>
+Date:   Sat Sep 28 10:48:39 2019 -0300
+
+    Merge pull request #1 from AndreDantas-CesarSchool/test
+    
+    Testing bad commit
+
+[33mcommit f842c0db3051d9562d8bb129e9d9b298c4070935[m
+Merge: 703fd5b 1f50b10
+Author: Frederyk Antunnes <frederykantunnes@gmail.com>
+Date:   Sat Sep 28 10:45:42 2019 -0300
+
+    Merge pull request #2 from AndreDantas-CesarSchool/feature_1
+    
+    Feature 1
+
+[33mcommit 1f50b106b6693bdb9b48ba2d0a3100b3fdca1ea5[m
+Author: unknown <frederyk antunnes>
+Date:   Sat Sep 28 10:43:37 2019 -0300
+
+    Fix error
+
+[33mcommit d1fc59a573cfcf81b2b73976aa322536cca2a8ff[m
+Author: Your Name <you@example.com>
+Date:   Sat Sep 28 10:39:23 2019 -0300
+
+    Fixing bad commit
+
+[33mcommit ecf720dc5f5459b89d1b3c69b27cec6184df552a[m
+Author: unknown <frederyk antunnes>
+Date:   Sat Sep 28 10:39:00 2019 -0300
+
+    Commit feature 1
+
+[33mcommit a29da484894b7dd44a4c173bf47b97a2a19b63b9[m
+Merge: 407d6ed 703fd5b
+Author: unknown <frederyk antunnes>
+Date:   Sat Sep 28 10:37:12 2019 -0300
+
+    Merge branch 'master' of https://github.com/AndreDantas-CesarSchool/AppCesar
+
+[33mcommit 407d6ed0b0eb7aed53f91d307825c8545a1c0bc0[m
+Author: unknown <frederyk antunnes>
+Date:   Sat Sep 28 10:35:15 2019 -0300
+
+    Teste de erro
+
+[33mcommit 1a549eda1c8ebb503bf9d6532ef2521a08ec46aa[m
+Author: Your Name <you@example.com>
+Date:   Sat Sep 28 10:29:35 2019 -0300
+
+    Testing bad commit
+
+[33mcommit 703fd5ba6dfefaafbb35ec5323c5c690e74934ff[m
+Author: Your Name <you@example.com>
+Date:   Sat Sep 28 09:39:48 2019 -0300
+
+    Fixing config
+
+[33mcommit a7ae066a97af6231a42cedd274289c24c7b4498c[m
+Author: Your Name <you@example.com>
+Date:   Sat Sep 28 09:38:27 2019 -0300
+
+    Fixing Config
+
+[33mcommit 11548838d421ac3606018224c5aa9bcb866e2aa4[m
+Author: Your Name <you@example.com>
+Date:   Sat Sep 28 09:36:59 2019 -0300
+
+    Fixing config
+
+[33mcommit 3bf0d3b6486da2266c1a2ecedf3acfaad6791e82[m
+Author: Your Name <you@example.com>
+Date:   Sat Sep 28 09:33:32 2019 -0300
+
+    Fixing config.yml
+
+[33mcommit a72f58aaee11a449a683e3db08c6114fffa3abd0[m
+Author: Your Name <you@example.com>
+Date:   Sat Sep 28 08:56:28 2019 -0300
+
+    Changed circle config
+
+[33mcommit b0a2966a7083bf8a4af58cae13b07b1693ef2c8d[m
+Author: Your Name <you@example.com>
+Date:   Sat Sep 28 08:43:54 2019 -0300
+
+    Accept Android licenses
+
+[33mcommit 99818e6936c941bd028dbf3d7a198f0d30d6a815[m
+Author: Your Name <you@example.com>
+Date:   Sat Sep 28 08:38:57 2019 -0300
+
+    Added circle config file
+
+[33mcommit 56d5cd8a7d7bef421cadf6466a292467889e2b59[m
+Author: Your Name <you@example.com>
+Date:   Sat Sep 28 08:28:05 2019 -0300
+
+    init repo

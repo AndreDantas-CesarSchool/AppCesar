@@ -45,5 +45,5 @@ task jacocoTestReport(type: JacocoReport, dependsOn: "testDebugUnitTest") {
     sourceDirectories = files([mainSrc])
 }
 coveralls {
-    jacocoReportPath = "$buildDir/reports/jacoco/jacocoProdDebugReport/jacocoProdDebugReport.xml"
+    jacocoReportPath = "$buildDir/reports/jacocoTestReport/jacocoTestReport.xml"
 }

@@ -40,6 +40,6 @@ jobs:
           destination:
       - run:
           name: Jacoco Test
-          comand: ./gradlew jacocoTestReport
+          command: ./gradlew jacocoTestReport
       - store_test_results:
           path: app/build/reports/jacocoTestReport

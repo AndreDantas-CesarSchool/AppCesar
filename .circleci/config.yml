@@ -37,4 +37,9 @@ jobs:
           command: ./gradlew assemble
       - store_artifacts:
           path: app/build/outputs/apk
-          destination: apk
+          destination:
+      - run:
+          name: Jacoco Test
+          comand: ./gradlew jacocoTestReport
+      - store_test_results:
+          path: app/build/reports/jacocoTestReport

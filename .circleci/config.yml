@@ -43,3 +43,6 @@ jobs:
           command: ./gradlew jacocoTestReport
       - store_test_results:
           path: app/build/reports/jacocoTestReport
+      - run:
+          name: Coveralls
+          command: ./gradlew coveralls
